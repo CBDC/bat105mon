@@ -154,7 +154,9 @@
       <FEED source="//scs#coreDescs"/>
     </dbCore>
 
+<!--
     <publish render="scs.xml" sets="local"/>
+-->
     <publish render="form" sets="local"/>
     <outputTable verbLevel="20"/>
   </service>
